@@ -1,0 +1,16 @@
+Application:
+	database
+	OS
+	network
+	access control
+	encryption
+	virus
+	web
+Physical:
+	environment
+	equipment
+	media
+Standard:
+	ISO27000-27008
+Doctoral Dissertation:
+
